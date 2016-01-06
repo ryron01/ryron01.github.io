@@ -1,0 +1,6 @@
+---
+published: true
+title: Day one
+layout: post
+---
+I've decided to start blogging personally.  I hope no one can see this yet.  
