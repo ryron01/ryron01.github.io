@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ryron01.github.io
+title: Ryan Lucas
+tagline: A moment in time with a System Administrator
+description: My awesome new site is live!  I'm clearly testing.
+paginate: 10
